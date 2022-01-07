@@ -1,0 +1,39 @@
+* {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: black;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+}
+
+a {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+a:hover {
+	color: lightblue;
+}
+
+header h1 {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.travel-guide h1 {
+	color: white;
+	font-size: 42px;
+	font-weight: 300;
+}
+
+.travel-guide p {
+	color: gray;
+	font-size: 21px;
+}
+
+footer h4{
+    color: gray;
+    text-align: right;
+}
